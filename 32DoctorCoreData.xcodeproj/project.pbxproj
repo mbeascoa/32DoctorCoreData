@@ -14,6 +14,7 @@
 		9AD49E6B26EB4E0C00164483 /* _2DoctorCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9AD49E6926EB4E0C00164483 /* _2DoctorCoreData.xcdatamodeld */; };
 		9AD49E6D26EB4E0E00164483 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AD49E6C26EB4E0E00164483 /* Assets.xcassets */; };
 		9AD49E7026EB4E0E00164483 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AD49E6E26EB4E0E00164483 /* LaunchScreen.storyboard */; };
+		9AD49E7826EB515F00164483 /* DoctorListControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD49E7726EB515F00164483 /* DoctorListControllerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9AD49E6C26EB4E0E00164483 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9AD49E6F26EB4E0E00164483 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9AD49E7126EB4E0E00164483 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AD49E7726EB515F00164483 /* DoctorListControllerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorListControllerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				9AD49E6E26EB4E0E00164483 /* LaunchScreen.storyboard */,
 				9AD49E7126EB4E0E00164483 /* Info.plist */,
 				9AD49E6926EB4E0C00164483 /* _2DoctorCoreData.xcdatamodeld */,
+				9AD49E7726EB515F00164483 /* DoctorListControllerViewController.swift */,
 			);
 			path = 32DoctorCoreData;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				9AD49E6526EB4E0C00164483 /* ViewController.swift in Sources */,
 				9AD49E6126EB4E0C00164483 /* AppDelegate.swift in Sources */,
 				9AD49E6326EB4E0C00164483 /* SceneDelegate.swift in Sources */,
+				9AD49E7826EB515F00164483 /* DoctorListControllerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
